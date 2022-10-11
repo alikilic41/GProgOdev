@@ -1,0 +1,11 @@
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
