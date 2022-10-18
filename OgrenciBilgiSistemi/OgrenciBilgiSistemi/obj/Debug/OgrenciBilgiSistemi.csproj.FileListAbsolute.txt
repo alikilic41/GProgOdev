@@ -1,0 +1,13 @@
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.AssemblyReference.cache
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+C:\Users\aliki\OneDrive\Masaüstü\Notlar\2.SINIF\Görsel programlama II\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3.resources
